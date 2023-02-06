@@ -1,5 +1,4 @@
-# A-Simple-VPN-Application-using-Flutter
-VPN API integrated with Flutter
+<h2 align="center">A Simple VPN Application using Flutter</h2>
 
 ### For Android
 
