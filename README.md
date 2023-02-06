@@ -1,5 +1,5 @@
 # A-Simple-VPN-Application-using-Flutter
-VPN API integrated with Flutter
+VPN Plugin integrated with Flutter
 
 ## Features 
     - Strongswan, which supports the ikev2 protocol, built the Android component.
